@@ -1,2 +1,3 @@
-# bCMS
-A simple, elegant, and lightweight approach to a Habbo CMS.
+# bCMS - bcmsgit.org
+# using flightphp framework
+A simple, elegant, and lightweight approach to Habbo.
